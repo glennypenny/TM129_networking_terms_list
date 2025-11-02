@@ -1,0 +1,154 @@
+﻿GLOSSARY OF TERMS,
+Acronym / Term,Definition
+2.4GHz / 5GHz,Most networks use these frequencies to communicate
+AFRINIC,Africa RIR
+APNIC,Australlasia / Asia RIR
+Application (OSI),Protocol for P2P comms
+Application (TCP/IP),Represents data to the user / encoding and dialogue control
+ARIN,North American RIR
+ARP,Address Resolution Protocol
+ASCII,American Standard Code for Information Interchange
+Bandwidth,Medium to carry data
+Bits,Binary Code
+Bluetooth,Low-power / short-range wireless connection
+Broadcast,A message with a specific IP address that is sent to all hosts except the source
+Category 5e Cable,Most commonly used in LAN
+Cellular Data,"If configured, transiitions from networks seemlessly"
+Class A Addressing,Networks with more tha 16million hosts
+Class B Addressing,Networks with approximately 65000 hosts
+Class C Addressing,Networks with maximum 284 users
+Clients,Device or software that requests services or data from server
+Cloud Services,Offer services out of data centres
+Coaxial Cable,Tubular cable with conductive shield and inner wire
+Coaxial Terminal / Connection,Used for transmitting multiple signals simultaneously
+Core Layer,Highspeed backbone with redundant connections. Responsible for large amount of data
+Data Centres,Provide bandwidth
+Data Link (OSI),Describes methods for echanging data frames between devices over common media
+Default Gateway,Identifies the networking device the host uses to connect
+DHCP,Dynamic Host Configuration
+Distribution Layer,"A connection point for separate networks, which controls the flow of information between networks."
+DNS,Domain Name System
+DSCP,Differentiated Services Code Point
+DSL,Digital Subscriber Line
+DSL: Digital Subscriber Line,
+Dual Stack,Devices that can run both IPv4 and IPv6 protocol simultaneously
+Encapsulation,The process of adding to the frame to enable communication
+Encoding,Converting messages into bits
+End Devices,Interface for users
+Ethernet,Most common wired protocol
+Ethernet Frame,The technology used for LAN devices to access a network using the NIC
+Fault Tolerance,If a device can access the internet multiple ways incase of a fault
+FCS,Frame Check Sequence
+Fiber Optic Cable,Glass or plastic with high bandwidth
+Frames,Like envelopes for computers
+FTP,File Transfer Protocol
+GHz,Gigahertz measurement of frequency
+GPS,"Global Position Syste,"
+GSM,The Global System for Mobile Communications
+Hexadecimal,Digits 0-9 and letters A-F
+Hextet,16 digits 128 bits in length
+HTTPHTTPS,Hypertext Transfer Protocol Secure
+HUD,Heads-Up Display
+IaaS,Infrastructure as a service (virtual computer storage)
+IANA,Internet Assigned Numbers Authority
+ICANN,The Internet Coropration for Assigned Names & Numbers
+ICMP,Internet Controm Message Protocol
+IEEE,The Institute of Electrical and Electronic Engineers
+IETF,Internet Engineering Task Force
+iMAP,Internet Message Acces Protocol
+Intermediate Devices,"Routers, switches, etc"
+Internet(TCP/IP),Determines the best path through the network
+IP,Internet Protocol
+ipconfig,Displays IP configuration information
+IPv4,32- bits. Grouped in octets
+IPV6,"128-bits, grouped in hextets"
+ISO,Internal Organisation for Standardisation
+ISO: International Organisation for Standardisation,
+ISP,Internet Service Providers
+ITU,International Telecommuncation Union
+LACNIC,South America RIR
+LAN,Local Area Network
+MAC,Media Acces Control
+MHz,Megahertz measurement of frequency
+Mobile Pairing,When two devices establish a connection to share resources
+Mobile Tethering,Using a smart phones data connection to provide internet access to other devices
+Modem,converts signals coming from an ISP to a LAN
+Multi-cast,Similar to a broadcast. Reduces traffic. Is sent to certain groups.
+NAT,Network Address Translation
+ND,Neighbour Discovery
+netstat,Displays network connections
+Network (OSI),Provides serviices to echange individual piece of data over the network. IP addressing happens here
+Network Access (TCP/IP),Controls the hardware that make up the network
+Network Media,"Fibre-optic, copper wires, etc"
+Network Security,The network infrastructure and physical measure to authorise access to packets
+NFC,Near Field Communications
+NIC,Network Interface Card
+nslookup,Queries name server for information
+Octect,Four 8-bit bytes
+OS,Operating System
+OSI,Open Systems Interconnection
+OSPF,Open Shortest Path First
+P2P,Peer to peer communcation
+PaaS,Platform as a service (java)
+Physical (OSI),"Decribes the mechanical, eletrical, functional and procedural means to activate, maintain and de-activate physical connections for bit transmission."
+PIN: Personal Identification Number,
+ping,Test connection between hosts
+POP3,Post Office 3
+Ports,"Used as destintations common ports include 20, 21, 22, 23, 25, etc"
+Preamble,The first bits of an ethernet frame
+Presentation (OSI),Provides for common representation of data transferred between application layer services
+Protocol Model,A model that closely matches a particular protocol suite
+Public IPv4 Addresses,Globally routed between ISP and routers
+QoS,Quality of Service
+RF Spectrum,Radio Frequency Spectrum
+RFC,Request for Comments
+RFC: Request for Comments,
+RFID,Radio Frequency Identification
+RIPE,Europe / Asia / Middle East RIR
+RIRs,The Regional Internet Registries
+Router,Operates outside of the LAN in the WAN
+Routing Tables,Used to store information about networks
+SaaS,Software as a service (gaming)
+Scalability,A network that is able to expand quickly by design as per accepted standards and protocols
+Servers,"Computer system that provides services, data, and resources to other computer"
+Session (OSI),Provides services to the presentation layer to organise dialogue and manage data exchange
+SFD,Start Frame Delimiter
+SMTP,Simple Mail Transfer Protocol
+SNMP,Simple Network Management Protocol
+SOHO,Small Office/Home Office
+Special Use Ipv4 Addresses,"Broadcast addreses, Network addreses,etc. Cannot be given to a host"
+SSH,Secure Shell
+SSID,Service Set Identifier
+Standards,A set of rules for how something must be done
+STAs,Wireless Stations
+Subnet Mask,Seperates networks into more manageable subnetworks to improve security and performance
+Subnetting,"Splitting networks by; location, group, function or device type"
+Switch,Uses MAC addressing at the data link layer to reduce traffic
+TCP,Transmission Control Protocl
+Telnet,Older application layer protocol
+TFTP,Trivia File Transfer Protocol
+The Reference Model,A model that describes a particular function at a specific layer.
+The WiFI Allicance,Non-profit organisation that owns the WiFi trademark. Certifies products meeting industry standards
+Throughput,Measuremt of data including latency
+TIA,Telecommunications Industry Association
+tracert,Displays route to a destination
+Translation,NAT64 allows IPv6 enabled devices to communicate with IPv4 devices
+Transport (OSI),Defines services to segment transfers and reassembles the data for individual comms between devices
+Transport (TCP/IP),Supports communication between devices across diverse networks
+Tunneling,A method of transporting IPv6 packets over IPv4 networks
+Twisted-Pair,A type of Ethernet Cable
+UDP,User Datagram Protocol
+Unicast,One device sending a message to one other device
+URL,Uniform Resource Locator
+URN,Uniform Resource Name
+URT,Uniform Resource Identifier
+UTP,Unshielded Twisted Pair
+Virtualisation,"Hypervisors, Bare Metal (OS)"
+VPN,Virtual Private Network
+WAN,Wide Area Network (Over 1km)
+WiFi,Wireless communication technology
+Wired Protocols,These define the format for data transmission over physical cables
+WLAN,Wireless Local Arean Network
+WPA/WPA2,WiFi Protected Access (2)
+WWW,World-Wide Web
+GOT TO PAGE 41 OF YOUR NOTES,
